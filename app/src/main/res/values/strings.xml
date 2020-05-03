@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">OpenPruszkow</string>
+    <!--Text in parks menu item-->
+    <string name="parks">Parks</string>
+    <!--Text in places for runners menu item-->
+    <string name="pl_for_runners">For runners</string>
+    <!--Text in places for runners menu item-->
+    <string name="regular_events">Regular events</string>
+    <!--Text in places for runners menu item-->
+    <string name="exercises">Go for exercises</string>
+    <!--Text in places for runners menu item-->
+    <string name="eat_fun">Eat. Have fun</string>
+    <string name="more_pictures">More pictures...</string>
+
+    <!--Text 'closed' when place is not open that day-->
+    <string name="closed_text">closed</string>
+
+    <!--Text below place main image that tell that we can se more pictures in new Activity-->
+    <string name="more_pics_text"><u>More pics...</u></string>
+
+    <!--Days of the week-->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <!--Parks of Pruszkow-->
+    <string name="park_anielin">Park Anielin</string>
+    <string name="park_anielin_description">Park Anielin Wschodni w Pruszkowie o powierzchni 3,18
+        ha położony jest pomiędzy rzeką Utratą, ul. B. Prusa, ul. Miry Zimińskiej-Sygietyńskiej a
+        Al.Wojska Polskiego.</string>
+    <string name="park_kosciuszki">Park im. Tadeusza Kosciuszki</string>
+    <string name="park_kosciuszki_description">Park im. Tadeusza Kościuszki (również Park Sokoła) –
+        park miejski położony w śródmiejskiej części Pruszkowa, posiada obszar 4,26 ha.</string>
+    <string name="park_mazowsze">Park kultury i wypoczynku Mazowsze</string>
+    <string name="park_mazowsze_description">Park Kultury i Wypoczynku Mazowsze – park miejski
+        położony w północno-wschodniej części Pruszkowa, w dzielnicy Żbików. Posiada obszar 9,8 ha,
+        w tym zbiorniki wodne o powierzchni 5 ha. Park nazywany jest potocznie Glinkami Hosera.</string>
+    <string name="park_potulickich">Park Potulickich</string>
+    <string name="park_potulickich_description">Park Potulickich – park miejski położony w
+        śródmiejskiej części Pruszkowa. Posiada obszar 23,25 ha, w tym zbiorniki wodne o powierzchni
+        8,5 ha i jest uznany za zabytek wpisany do rejestru zabytków pod numerem 623403.</string>
+    <string name="park_zwirowisko">Park Zwirowisko</string>
+    <string name="park_zwirowisko_description">Park Żwirowisko o powierzchni 2,41 ha został
+        utworzony jako teren rekreacyjny z myślą o mieszkańcach osiedla os. Bolesława Prusa.
+        Teren ten jest szczególnie cenny ze względu na obecność zbiorników wodnych, co ma znaczny
+        wpływ na tworzenie się ostoi dla zwierząt, głównie ptactwa.</string>
+
+    <!--Places to eat-->
+    <string name="sila_kebab_title">Sila Kebab</string>
+    <string name="erebuni_kebab_title">Erebuni Kebab</string>
+    <string name="corrado_title">Corrado</string>
+    <string name="besiadowo_title">Biesiadowo</string>
+    <string name="oliwka_title">Oliwka</string>
+    <string name="eskaem_title">Eskaem Cafe</string>
+
+    <!--Descriptions for places to eat-->
+    <string name="sila_kebab_description">Miejsce gdzie można zjeść dobrego kebaba i dobrze posiedzieć.
+    Jedzenie pyszne, zawsze Świeże, szybko Podane, miła Obsługa, dobre Ceny - czego chcieć więcej :-)</string>
+    <string name="erebuni_kebab_description">Cieple miejsce, można go polubić :) Obsluguje sympatyczna kobitka.
+    Kebab dość duzy, dobre sosy. Nie każdy wybiera sobie to miejsce, ale niektórzy go poprostu lubią,
+    i kebab jest naprawde dobry.</string>
+    <string name="corrado_description">Corrado to jest bardzo znana pizzeria w Pruszkowie. Wygłąd zewnętrny, jak i wewnętrzny interier jest bajkowy.
+    Oficjanci są miłi, pizza jest dobra, w porównywalnej cenie. </string>
+    <string name="biesiadowo_description">Biesiadowo to jest pizzeria znajdująca się na ul. Bolesława Prusa 35A,
+        wejscie się znajduje od ul. Ceramicznej. Klimatyczne ciekawe miejsce. Pizza srednia, ceny
+        porównywałne, ale to miejsce jest dosyć ciekawe, żeby tam czas do czasu przyjść.</string>
+    <string name="oliwka_description">To jest zwyczajne miejsce, gdzie można NAPRAWDE smacznie zjeść. Domowe potrawy pierwszej klasy.
+    Zawsze jakieś dobre zupki. Jest naprawde niedrogo i warto to miejsce odwiedzieć tym, którzy chcą
+    zjeść zwykłego bardzo dobrego jedzenia domowego.</string>
+    <string name="eskaem_description">To miejsce dysponuje szerokim wyborem kaw, napojów chłodzących tych alkoholowych
+i bezalkoholowych, przekąsek zimnych i gorących. Przy mega dużym ekranie można poogłądać najważniejsze
+        wydarzenia sportowe.</string>
+
+    <!--Places for runners titles-->
+    <string name="za_basenem">W okolicach toru kolarskiego</string>
+    <string name="komorow">Komorów</string>
+    <string name="stadion_mos">Stadion MOS</string>
+
+    <!--Places for runners descriptions-->
+    <string name="za_basenem_description">Bardzo ladna droga za basenem "Kapry". Prawie zawsze jest cicho i spokojnie, tyłko czasami
+    można spotkać KONI ze stajni obok, albo spacerujących lidzi, oczywiście trzeba uważać na samochody. Można sobie zrobić kółko biegnąc
+    za torami kolarskimi, tam też jest bardzo ladnie, a dałej po ulicy Andrzeja...</string>
+    <string name="komorów_description">Komorów to bardzo cicha i zielona okone miasteczko w okolicach Pruszkowa. Można się przebiec po
+    nieskonczonej ilości uliczek, albo po nieskończonej (prawie) liczbie ścieżek w Komorowskim Lesie.</string>
+    <string name="stadion_mos_description">Popularne miejsce wsród biegaczy. Więc jak przyjdziesz tutaj to napewno znajdziesz towarzystwo, tyłko porozmawiać się nie da,
+    wszyscy  biegają, albo jak niektórzy to grają pilke na trawie. Bieżnia na stadionie jest absolutnie standardowa, więc można tu zrobić profesjonalny trening biegowy :)
+    albo i nie, to znaczy spokojny relaksujący :) Można również porobić wprawy, porozciągać się - miejscuwek dla tego na stadionie jest pełno :) </string>
+
+    <!--Places for exercises titles-->
+    <string name="street_wourkout">Plac do streetwoukout\'u</string>
+    <string name="plac_park_kosciuszki">Plac w parku Kościuszki</string>
+    <string name="czwiczenia_park_anielin">Miejsce do czwiczeń w parku Anielin</string>
+    <string name="place_exercises_plazowka">Plażówka</string>
+    <string name="place_exercises_basen_kapry">Basen Kapry</string>
+
+
+    <!--Places for exercises descriptions-->
+    <string name="street_workout_description">Niedawno \'postawiony\' placyk dla street workout\'u
+    pozwoli wykonać mase różnych czwiczeń, często w towarzystwie innych ludzi :)</string>
+    <string name="plac_park_kosciuszki_description">Ten plac znajduję się w parku Kościuszki. Po jednej stronie widok na ulicę :(,
+    ale po drugiej bardzo ladny na park :) Można wykonać mase wpraw, wystarczy trochę weobrażni ;)
+    Równiż można porobić wprawki obok na trawie pod drzewkiem.</string>
+    <string name="czwiczenia_park_anielin_description">W tym miejscu można poczwiczyć na zwykłej trawie, co dodaje kolorytu :)
+    Tam można porobić brzuszki, pompki na poręczach, oras takie wprawy, jakie tyłko mozna wymyślić (albo znaleźć w internecie dla przykładu :) )</string>
+    <string name="place_exercises_plazowka_description">Lubisz plażówke? A kto ją nie lubi :) To tutaj można ją zagrać.
+    Naukoło rosną duże ladne drzewa i kszaki :) Można przyjść i w ładnym miejscu porobić wprawki, lub co najważniejsze - zagrać z przyjaciółmi.</string>
+    <string name="place_exercises_basen_kapry_description">Tak, w Pruszkowie jest swój basen. Basen jest w pełni standardowy, długość 25m.
+    Dodatkowo można się zrelaksować w jednej z dwu jacuzzi, albo w saunie, albo na zjeżdżalni, albo sobie samemu :) zrobić masaż wodny. </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

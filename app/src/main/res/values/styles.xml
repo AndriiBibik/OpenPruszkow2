@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--Menu items text style-->
+    <style name="menu_item_text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:paddingTop">@dimen/small_gap</item>
+        <item name="android:textColor">@color/secondaryTextColor</item>
+        <item name="android:textSize">@dimen/menu_text_size</item>
+    </style>
+
+    <!--Menu item style-->
+    <style name="menu_item_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/small_gap</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!--Menu image style-->
+    <style name="menu_image_style">
+        <item name="android:layout_width">@dimen/menu_image_size</item>
+        <item name="android:layout_height">@dimen/menu_image_size</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="menu_item_selectable">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">?selectableItemBackground</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="menu_item_container">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/medium_gap</item>
+        <item name="android:background">@color/menuItemBackground</item>
+    </style>
+
+</resources>

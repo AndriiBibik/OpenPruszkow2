@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/primaryColor</color>
+    <color name="colorPrimaryDark">@color/primaryDarkColor</color>
+    <color name="colorAccent">@color/secondaryColor</color>
+    <color name="primaryColor">#00c853</color>
+    <color name="primaryLightColor">#5efc82</color>
+    <color name="primaryDarkColor">#009624</color>
+    <color name="secondaryColor">#ffab00</color>
+    <color name="secondaryLightColor">#ffdd4b</color>
+    <color name="secondaryDarkColor">#c67c00</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
+    <color name="menuItemBackground">#cfd8dc</color>
+    <color name="firstShadeGray">#F0F0F0</color>
+    <color name="secondShadeGray">#E1E1E1</color>
+    <color name="thirdShadeGray">#D2D2D2</color>
+    <color name="lightGreenBackground">#DCEDC8</color>
+    <color name="lightBlueBackground">#B3E5FC</color>
+    <color name="lightAmberBackground">#FFECB3</color>
+    <color name="lightDeepOrangeBackground">#FFCCBC</color>
+    <color name="lightLimeBackground">#F4FF81</color>
+</resources>
